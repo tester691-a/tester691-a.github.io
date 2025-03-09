@@ -2,7 +2,7 @@
 Hosting a Roblox Executor called Novo – Novo's GitHub Page
 
 ## Novo
-Welcome! This is Novo, a Roblox Executor. Novo was launched today, and the initial release may be missing several features. We apologize for any inconvenience this may cause and hope to address these issues soon.
+Welcome! This is Novo, a Roblox Executor. Novo was launched today, and the initial release may be missing several features. We are very sorry for any inconvenience this may cause and hope to address these issues soon.
 
 ## License
 Novo is published on GitHub under the MIT License, which grants you extensive freedoms with certain limitations.
