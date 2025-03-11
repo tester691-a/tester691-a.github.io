@@ -9,6 +9,7 @@ Novo is published on GitHub under the MIT License, which grants you extensive fr
 
 ## Warning
 Novo's GitHub Pages site may contain unfinished pages, but we expect to resolve these issues in the future.
+Nevermind, Novo's Github page no longer works. Use https://novoexecutor.vercel.app/
 
 ## Developed In...
 This executor was developed in C# using Cloudy's API. Special thanks to the creators of Cloudy's API.
