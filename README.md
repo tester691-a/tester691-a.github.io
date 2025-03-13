@@ -18,8 +18,8 @@ This executor was developed in C# using Cloudy's API. Special thanks to the crea
 Thank you for using Novo! Be sure to check out Solara, Xeno, and Cloudy as well – we're confident you'll enjoy them too!
 
 ## One More Thing
-Enjoy this image of a cloud:
+Enjoy this image of a cute little duckling:
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/202517079/420673991-bea1be40-8df1-4a5c-8954-6dbc79c67f09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250309T132412Z&X-Amz-Expires=300&X-Amz-Signature=bb0230ac1f2c27c8db85af7a38fe9dc0c87462b30d5b2dc9e003b6a0d3bbe5c5&X-Amz-SignedHeaders=host
+![image](https://github.com/user-attachments/assets/a4509f8c-d975-4ca1-a814-c3658a28f9b3)
 ## What it is made with?
 Made with Love ❤
