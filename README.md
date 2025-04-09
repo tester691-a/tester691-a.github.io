@@ -2,7 +2,7 @@
 Hosting a Roblox Executor called Novo – Novo's GitHub Page
 
 ## Novo
-Welcome! This is Novo, a Roblox Executor. Novo was launched today, and the initial release may be missing several features. We are very sorry for any inconvenience this may cause and hope to address these issues soon.
+Welcome! This is Novo, a Roblox Executor. Novo was launched 1 month ago, and the initial release may be missing several features. We are very sorry for any inconvenience this may cause and hope to address these issues soon.
 
 ## License
 Novo is published on GitHub under the MIT License, which grants you extensive freedoms with certain limitations.
@@ -12,7 +12,7 @@ Novo's GitHub Pages site may contain unfinished pages, but we expect to resolve 
 Nevermind, Novo's Github page no longer works. Use https://novoexecutor.vercel.app/
 
 ## Developed In...
-This executor was developed in C# using Cloudy's API. Special thanks to the creators of Cloudy's API.
+This executor was developed in C# using Nezur's API. Special thanks to the creators of  Nezur's API.
 
 ## Thank You
 Thank you for using Novo! Be sure to check out Solara, Xeno, and Cloudy as well – we're confident you'll enjoy them too!
